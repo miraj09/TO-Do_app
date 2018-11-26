@@ -1,3 +1,3 @@
 # TO-Do_app
-a simple to-do app, where you can write your notes 
-easy to use
+a simple "To-Do" app, where you can write and save your notes 
+
